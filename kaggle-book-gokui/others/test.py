@@ -1,3 +1,4 @@
+# https://ohke.hateblo.jp/entry/2019/12/07/230000
 import torch 
 import torch.optim as optim
 import numpy as np
